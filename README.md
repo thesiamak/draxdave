@@ -16,14 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Android Util library. It reduces the development time by half.
-Quite exciting! 
+- 🔭 I'm on my demo app at the moment. [https://github.com/draxdave/sendit](Sendit) Quite exciting!
 
 - 🌱 I’m currently learning Big O notation and code complexity calculation. still way to go. 
 
-- 👯 I’m looking to collaborate on Anything! 
+- 👯 I’m looking forward to collaborate on a public source(if there is was time).
 
-- 💬 Talk to me about Android, Kotlin, IoT and Open Source 
+- 💬 Talk to me about Android, Kotlin, IoT and Open Source.
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href= https://github.com/draxdave?tab=repositories&q=&type=&language=kotlin&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
