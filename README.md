@@ -16,7 +16,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I'm on my demo app at the moment. [https://github.com/draxdave/sendit](Sendit) Quite exciting!
+- 🔭 I'm on my demo app at the moment. [https://github.com/draxdave/sendit](Sendit)
+  - It's on `Kotlin` now, but I'm rewriting it on `React Native`, `Swift` & `flutter`. Quite exciting! Feel free to fork and follow.
 
 - 🌱 I’m currently learning Big O notation and code complexity calculation. still way to go. 
 
